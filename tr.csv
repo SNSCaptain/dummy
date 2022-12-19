@@ -1,3 +1,3 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentid,size
-SNS Admin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,O-6066,,
-Captain SNS,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,O-6067,O-6066,
+SNS Admin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-42,,
+Captain SNS,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/cto.jpg,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Chief Executive Officer ,O-172,O-42,

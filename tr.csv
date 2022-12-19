@@ -2,7 +2,7 @@ name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentid,
 SNS Admin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,,42,
 Captain SNS,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,171,42,
 Captain001 SNS,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,172,171,
-Sunil Dawson,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,177,,42
+Sunil Dawson,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,177,42
 Sharun Thejus,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,178,177,
 Shubha Evangeline,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,180,179,
 LMS ADMIN,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,181,42,

@@ -1,3 +1,3 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentid,size
-SNS Admin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,O-42,,
+SNS Admin,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,O-42,O-12,
 Captain SNS,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,0,description,FALSE,sns,O-171,O-42,
